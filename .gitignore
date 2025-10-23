@@ -1,0 +1,23 @@
+# Environments
+venv/
+.venv/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Secrets
+.env
+
+# Index
+index/
+
+# OS files
+desktop.ini
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+data/ 

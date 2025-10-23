@@ -1,0 +1,17 @@
+fastapi
+ffmpeg-python
+google-generativeai
+langchain
+langchain-community
+langchain-openai
+langchain-pinecone
+openai-whisper
+pinecone-client
+pydub
+pypdf
+python-dotenv
+streamlit
+uvicorn
+requests
+beautifulsoup4
+langchain-google-genai==2.0.10
