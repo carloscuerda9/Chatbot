@@ -1,0 +1,6 @@
+sites:
+  - name: "TikTok Ads"
+    base_urls:
+      - "https://ads.tiktok.com/"
+    crawl: true
+    depth: 2

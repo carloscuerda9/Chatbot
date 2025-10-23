@@ -1,0 +1,7 @@
+# Lista de usuarios y dominios autorizados para acceder al chatbot
+authorized_domains:
+  - "@cosmo5.com"
+
+authorized_users:
+  - "carlos.cuerda@cosmo5.com"
+  - "carlos.cuerda@labelium.com"

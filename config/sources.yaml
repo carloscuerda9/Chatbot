@@ -1,0 +1,11 @@
+sources:
+  - name: tiktok_internal_docs
+    kind: local_folder
+    paths:
+      - "chatbox/data/internal_docs/TikTok"
+    transcript: false
+    ocr: false
+  - name: tiktok_help_center
+    kind: web_page
+    paths:
+      - "https://ads.tiktok.com/help/"
