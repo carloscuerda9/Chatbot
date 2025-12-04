@@ -5,7 +5,7 @@ langchain
 langchain-community
 langchain-openai
 openai-whisper
-pinecone>=4.0.0
+pinecone>=4.0.0,<6.0.0
 pydub
 pypdf
 python-dotenv
