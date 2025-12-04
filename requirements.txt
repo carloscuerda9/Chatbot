@@ -4,7 +4,6 @@ google-generativeai
 langchain
 langchain-community
 langchain-openai
-langchain-pinecone>=0.2.0
 openai-whisper
 pinecone>=4.0.0
 pydub
