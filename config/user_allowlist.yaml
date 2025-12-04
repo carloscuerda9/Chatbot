@@ -5,3 +5,9 @@ authorized_domains:
 authorized_users:
   - "carlos.cuerda@cosmo5.com"
   - "carlos.cuerda@labelium.com"
+  - "eduardo.agudo@labelium.com"
+  - "eduardo.agudo@cosmo5.com"
+  - "blanca.delacalle@labelium.com"
+  - "blanca.delacalle@cosmo5.com"
+  - "borja.pesquera@labelium.com"
+  - "borja.pesquera@cosmo5.com"
