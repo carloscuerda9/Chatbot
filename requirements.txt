@@ -4,6 +4,7 @@ google-generativeai
 langchain
 langchain-community
 langchain-openai
+langchain-pinecone
 openai-whisper
 pinecone>=4.0.0,<6.0.0
 pydub
@@ -15,3 +16,4 @@ requests
 beautifulsoup4
 langchain-google-genai==2.0.10
 python-docx
+
